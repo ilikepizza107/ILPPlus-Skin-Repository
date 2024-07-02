@@ -1,0 +1,5 @@
+The included FitToonLink.pac makes Toon Link's grounded and air up b blue, for the 40th slot only. Please install the Toon Link skin to slot 40 to make this work.
+
+Modified PSA:
+Sub Action 1DB, GFX; Sub Action 1DD, GFX
+Up to date with P+ 3.0.1
